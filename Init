@@ -1,0 +1,3 @@
+#!/bin/bash
+curl -sL https://developer.salesforce.com/media/salesforce-cli/sf/channels/stable/install-sf-linux-x64.tar.xz | tar -xJ
+sudo mv ./sf /usr/local/bin/sf
